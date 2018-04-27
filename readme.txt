@@ -6,6 +6,10 @@ git has change of file
 git message of name
 I don't know 
 wo buzhidao is wo shi
-creating a new branch is quick
+creating a new branch is quick and simple
 
+<<<<<<< HEAD
 eeeee buzhidao333
+=======
+eeeee shenmeshi mingzi
+>>>>>>> feature1
