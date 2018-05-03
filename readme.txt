@@ -13,3 +13,4 @@ eeeee buzhidao333
 =======
 eeeee shenmeshi mingzi
 >>>>>>> feature1
+Createing a new branch is quick
