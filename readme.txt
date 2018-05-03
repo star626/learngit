@@ -13,4 +13,8 @@ eeeee buzhidao333
 =======
 eeeee shenmeshi mingzi
 >>>>>>> feature1
+<<<<<<< HEAD
 Createing a new branch is quick & simple
+=======
+Createing a new branch is quick AND simple
+>>>>>>> feature1
